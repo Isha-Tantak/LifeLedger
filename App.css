@@ -1,0 +1,17 @@
+/* App layout */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f4f6f9;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Main section grows to push footer down */
+main {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
