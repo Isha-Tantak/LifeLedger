@@ -69,4 +69,10 @@ npm install
 npm start
 Frontend will run at: http://localhost:3000
 
+##Screenshots :
+1)Springboot started:
+It will run on:
+ http://localhost:8080
+ 
+
 
