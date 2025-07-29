@@ -76,5 +76,8 @@ It will run on:
  2)output of ui form:
  <img width="1380" height="666" alt="Image" src="https://github.com/user-attachments/assets/57e387dd-697d-4362-9990-c0a765287c7d" />
  <img width="1046" height="565" alt="Image" src="https://github.com/user-attachments/assets/bccb9955-e328-4265-82ab-015ca2f96265" />
+ ![Image](https://github.com/user-attachments/assets/0f5e39d1-7bac-46aa-a335-0f0f6be4eb92)
+
+<img width="829" height="492" alt="Image" src="https://github.com/user-attachments/assets/15cc14a9-0ff7-48a9-a339-d7544695be2c" />
 
 
