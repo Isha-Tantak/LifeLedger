@@ -73,6 +73,7 @@ Frontend will run at: http://localhost:3000
 1)Springboot started:
 It will run on:
  http://localhost:8080
- 
+ 2)output of ui form:
+ <img width="1380" height="666" alt="Image" src="https://github.com/user-attachments/assets/57e387dd-697d-4362-9990-c0a765287c7d" />
 
 
