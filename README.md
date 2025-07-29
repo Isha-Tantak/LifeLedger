@@ -93,3 +93,6 @@ It will run on:
 <img width="593" height="905" alt="Image" src="https://github.com/user-attachments/assets/0a540961-be0c-4e34-80d2-d0b2796f1916" />
 
 
+<img width="1093" height="873" alt="Image" src="https://github.com/user-attachments/assets/4607141b-9637-4d5f-b17b-daeba2344912" />
+
+
