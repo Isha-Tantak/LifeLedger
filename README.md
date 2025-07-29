@@ -78,7 +78,11 @@ It will run on:
  <img width="1046" height="565" alt="Image" src="https://github.com/user-attachments/assets/bccb9955-e328-4265-82ab-015ca2f96265" />
  3)when qr code gets scanned with mobile it will show information of patient :
  ![Image](https://github.com/user-attachments/assets/0f5e39d1-7bac-46aa-a335-0f0f6be4eb92)
+
+
 4)h2 database connectivity 
+
+
 <img width="829" height="492" alt="Image" src="https://github.com/user-attachments/assets/15cc14a9-0ff7-48a9-a339-d7544695be2c" />
 
 
