@@ -90,3 +90,6 @@ It will run on:
 <img width="477" height="792" alt="Image" src="https://github.com/user-attachments/assets/484aa005-d29a-456e-a811-e862466153ca" />
 
 
+<img width="593" height="905" alt="Image" src="https://github.com/user-attachments/assets/0a540961-be0c-4e34-80d2-d0b2796f1916" />
+
+
